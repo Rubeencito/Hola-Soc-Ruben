@@ -1,1 +1,0 @@
-System.out.print("Hola Adria ajudem amb aixo porfa!");
